@@ -1,7 +1,11 @@
-# 基于springboot+vue实现的医院管理系统
+## 基于springboot+vue实现的医院管理系统
 
-## 项目介绍
+### 一、项目介绍
 基于springboot+vue的前后端分离的医院管理系统
+
+语言：java 
+
+运行工具：idea或eclipse vscode 数据库：mysql  
 
 角色：管理员、患者、医生
 
@@ -29,8 +33,6 @@
 
 ![img.png](imgs/img.png)
 
-![img_1.png](imgs/img_1.png)
-
 ![img_2.png](imgs/img_2.png)
 
 ![img_3.png](imgs/img_3.png)
@@ -41,6 +43,7 @@
 
 ![img_6.png](imgs/img_6.png)
 
-![img_7.png](imgs/img_7.png)
+### 9.9￥ 获取完整源码+sql，需要加Q：3577148218 ,备用Q: 3808981644
+### 有问题，或者需要协助调试运行项目的也可联系
 
-![img_8.png](imgs/img_8.png)
+![img.png](img.png)
